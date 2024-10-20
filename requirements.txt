@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.35
+werkzeug~=3.0.4
+flask~=3.0.3
+flasgger~=0.9.7.1
+requests~=2.31.0
